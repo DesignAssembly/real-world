@@ -1,13 +1,13 @@
 {
   "events":
   {
-    'id': 1,
-    'name': 'Gavin',
-    'surname': 'wood',
+    "id': 1,
+    "name": "Gavin",
+    "surname": "wood",
   }.
   {
-    'id':2,
-    'name': 'Eli',
-    'surname': 'Wood',
+    "id":2,
+    "name": "Eli",
+    "surname": "Wood",
   }
 }
