@@ -1,4 +1,4 @@
-[
+{
   {
     'id': 1,
     'name': 'Gavin',
@@ -9,4 +9,4 @@
     'name': 'Eli',
     'surname': 'Wood',
   }
-]
+}
