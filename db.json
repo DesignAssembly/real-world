@@ -1,13 +1,70 @@
 {
-  "events":
-  {
-    "id": "1",
-    "name": "Gavin",
-    "surname": "wood",
-  },
-  {
-    "id":"2",
-    "name": "Eli",
-    "surname": "Wood",
-  }
+  "events": [
+    {
+      "id": 1,
+      "category": "Birthday",
+      "time": "4:00 PM",
+      "title": "Alice's Birthday Party",
+      "description": "Come celebrate Alice's birthday with cake and games!",
+      "organizer": "Alice",
+      "date": "2023-06-05",
+      "location": "123 Main Street",
+      "attendees": ["Bob", "Charlie"]
+    },
+    {
+      "id": 2,
+      "category": "Meeting",
+      "time": "10:00 AM",
+      "title": "Team Meeting",
+      "description": "Discuss progress on current projects and upcoming deadlines.",
+      "organizer": "John",
+      "date": "2023-06-10",
+      "location": "Virtual",
+      "attendees": ["Mary", "Sara"]
+    },
+    {
+      "id": 3,
+      "category": "Conference",
+      "time": "9:00 AM",
+      "title": "Tech Conference",
+      "description": "Learn about the latest advances in technology from industry experts.",
+      "organizer": "TechCo",
+      "date": "2023-07-15",
+      "location": "Convention Center",
+      "attendees": ["Jane", "Tom", "David", "Emily"]
+    },
+    {
+      "id": 4,
+      "category": "Family",
+      "time": "1:00 PM",
+      "title": "Family Reunion",
+      "description": "Catch up with relatives and enjoy a potluck lunch.",
+      "organizer": "Grandma",
+      "date": "2023-08-01",
+      "location": "Grandma's House",
+      "attendees": ["Uncle Bob", "Aunt Susan", "Cousin Timmy"]
+    },
+    {
+      "id": 5,
+      "category": "Product Launch",
+      "time": "6:00 PM",
+      "title": "New Product Launch",
+      "description": "Be the first to see our exciting new product!",
+      "organizer": "ABC Inc.",
+      "date": "2023-09-01",
+      "location": "Auditorium",
+      "attendees": ["Investors", "Journalists", "Customers"]
+    },
+    {
+      "id": 6,
+      "category": "Wedding",
+      "time": "4:30 PM",
+      "title": "Beach Wedding",
+      "description": "Join us for a beautiful seaside ceremony and reception.",
+      "organizer": "Bride and Groom",
+      "date": "2023-09-30",
+      "location": "Beach",
+      "attendees": ["Family", "Friends"]
+    }
+  ]
 }
