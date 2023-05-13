@@ -1,6 +1,11 @@
-[
-  {
-  name: 'Gavin',
-  surname: 'wood',
-  }
-]
+events:
+  1:
+    id: 1,
+    name: 'Gavin',
+    surname: 'wood',
+  2:
+    id:2,
+    name: 'Eli',
+    surname: 'Wood',
+  
+
