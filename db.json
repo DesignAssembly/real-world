@@ -1,3 +1,6 @@
-{
-
-}
+[
+  {
+  name: 'Gavin',
+   surname: 'wood'
+  }
+]
